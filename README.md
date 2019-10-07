@@ -1,4 +1,4 @@
-# mongodb-ops-manager-docker-image/
+# mongodb-ops-manager-docker-image
 
 # Docker Image with MongoDB Ops Manager
 
